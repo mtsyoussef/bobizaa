@@ -17,6 +17,3 @@ get session code from this link
 https://replit.com/@bobiztestbot/bobiza-qrcode
 
 Im not a dev bot just copy and past 😆 i steel leaning but it's haaaard 😸
- 
-heroku tutorial video :
-https://youtu.be/ypyLVUpK-zc?si=_pRpNkABjo-4_eGG
